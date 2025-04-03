@@ -1,1 +1,1 @@
-# andom-color
+# random-color
